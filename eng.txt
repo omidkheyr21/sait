@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Omid Kheyrfam | Mixologist & Concept Designer</title>
+  <style>
+    body { margin: 0; font-family: sans-serif; background-color: #0f0f0f; color: #f1f1f1; line-height: 1.8; }
+    header { background-color: #151515; padding: 2rem; text-align: center; }
+    header h1 { font-size: 2.2rem; color: #e0b56c; margin: 0; }
+    header p { font-size: 1rem; color: #ccc; }
+    nav { display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem; flex-wrap: wrap; }
+    nav a { color: #f1f1f1; text-decoration: none; font-weight: bold; transition: color 0.3s ease; }
+    nav a:hover { color: #e0b56c; }
+    section { padding: 2rem 1.5rem; max-width: 800px; margin: auto; }
+    h2 { color: #e0b56c; font-size: 1.5rem; }
+    footer { background-color: #111; color: #888; padding: 1rem; text-align: center; font-size: 0.9rem; }
+    .lang-switch { position: absolute; top: 1rem; right: 1rem; }
+    .lang-switch a { color: #e0b56c; text-decoration: none; margin-left: 1rem; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="lang-switch">
+    <a href="index.html">FA</a> | <a href="en.html">EN</a>
+  </div>
+  <header>
+    <h1>Omid Kheyrfam</h1>
+    <p>Molecular Mixologist | Concept Bar Designer | Drink Experience Creator</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#proposal">Proposal</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m Omid Kheyrfam, a mixologist specialized in molecular techniques and bar concept design. From the humble beginnings in Kerman to major projects like Skymon Kish, Episode Tehran, and Kavook Café, my goal has always been to create meaningful drink experiences rooted in space, culture, and story.</p>
+  </section>
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Drink menu design with layered flavor structure</li>
+      <li>Execution of molecular mixology techniques</li>
+      <li>Concept bar consulting</li>
+      <li>Team training and mentoring</li>
+    </ul>
+  </section>
+  <section id="proposal">
+    <h2>Collaboration Proposal</h2>
+    <p>The goal is to create a multi-layered, unique guest experience through concept-driven menus and the use of molecular techniques. This includes:</p>
+    <ul>
+      <li>Concept analysis of your space</li>
+      <li>Custom drink menu tailored to your brand and audience</li>
+      <li>Staff training and execution support</li>
+      <li>Storytelling for each beverage experience</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Instagram: <a href="https://instagram.com/omid.kheyr21">@omid.kheyr21</a></p>
+    <p>Email: info omid.kheyr21@gmail.com</p>
+    <p>Phone: +98 939 969 9792</p>
+  </section>
+  <footer>© 2018 Omid Kheyrfam | Crafted with passion for flavor and identity</footer>
+</body>
+</html>
